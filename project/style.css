@@ -1,0 +1,275 @@
+.flexWrapperTwentyOne {
+    background-color: cornflower-blue;
+    padding: 0 104px 0 7px;
+    display: flex;
+    align-items: flex-start;
+    position: absolute;
+    left: 0;
+    bottom: -226.36px;
+  }
+  .flexWrapperThirtyFour {
+    margin-right: 14px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  .relativeWrapperFour {
+    margin-bottom: 63px;
+    margin-left: 582px;
+    position: relative;
+  }
+  .flexWrapperTwentyTwo {
+    background-color: white;
+    padding: 21px 35px 78px 29px;
+    position: relative;
+    border: 10px solid black;
+  }
+  .aviarossija {
+    width: 100%;
+    height: 100%;
+    color: black;
+    
+  }
+  .smashicons1 {
+    width: 33.16%;
+    height: 58.08%;
+    position: absolute;
+    left: 65px;
+    bottom: -9px;
+  }
+  .group3 {
+    padding: 4px 0 0;
+    position: relative;
+  }
+  .smashicons5 {
+    width: 12.06%;
+    height: 15.26%;
+    position: absolute;
+    left: 58px;
+    top: 0;
+  }
+  .flexWrapperTwo {
+    background-color: white;
+    border-radius: 100px;
+    padding: 25px 8px 21px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    position: relative;
+  }
+  .poiskBiletov {
+    width: 27.86%;
+    height: 5.58%;
+    font-family: "Inter";
+    font-size: 24px;
+    font-weight: 900;
+    line-height: normal;
+    color: black;
+    margin-bottom: 53px;
+    margin-left: 142px;
+  }
+  .flexWrapperThirtyFive {
+    margin-bottom: 30px;
+    padding: 0 0 0 16px;
+    display: flex;
+    align-items: center;
+  }
+  .mestoVyleta {
+    width: 28.01%;
+    height: 53.7%;
+    font-family: "Inter";
+    font-size: 24px;
+    font-weight: 900;
+    line-height: normal;
+    color: black;
+    margin-right: 90px;
+  }
+  .relativeWrapperOne {
+    width: 60.28%;
+    align-self: stretch;
+    position: relative;
+  }
+  .rectangle6 {
+    width: 97.38%;
+    height: 81.48%;
+    background-color: white;
+    border-radius: 150px;
+    position: relative;
+    border: 5px solid black;
+  }
+  .smashicons6 {
+    width: 24.15%;
+    height: 161.11%;
+    position: absolute;
+    left: -83px;
+    bottom: -17px;
+  }
+  .dataVyleta {
+    width: 23.8%;
+    height: 5.58%;
+    font-family: "Inter";
+    font-size: 24px;
+    font-weight: 900;
+    line-height: normal;
+    color: black;
+    margin-bottom: 25px;
+    margin-left: 25px;
+  }
+  .flexWrapperThirtySix {
+    margin-bottom: 19px;
+    display: flex;
+    align-items: flex-start;
+  }
+  .mestoPribytija {
+    width: 31.48%;
+    height: 53.7%;
+    font-family: "Inter";
+    font-size: 24px;
+    font-weight: 900;
+    line-height: normal;
+    color: black;
+    margin-top: 17px;
+    margin-right: 74px;
+  }
+  .relativeWrapperThree {
+    width: 57.38%;
+    align-self: stretch;
+    position: relative;
+  }
+  .rectangle7 {
+    width: 97.38%;
+    height: 81.48%;
+    background-color: white;
+    border-radius: 150px;
+    position: absolute;
+    left: 0;
+    top: -67px;
+    border: 5px solid black;
+  }
+  .smashicons7 {
+    width: 28.08%;
+    height: 187.04%;
+    position: absolute;
+    left: -90px;
+    top: -91px;
+  }
+  .smashicons8 {
+    width: 19.16%;
+    height: 122.22%;
+    position: absolute;
+    left: -73px;
+    top: -12px;
+  }
+  .flexWrapperThirtySeven {
+    margin-bottom: 59px;
+    padding: 0 0 0 11px;
+    display: flex;
+    align-items: center;
+  }
+  .dataPribytija {
+    width: 29.6%;
+    height: 53.7%;
+    font-family: "Inter";
+    font-size: 24px;
+    font-weight: 900;
+    line-height: normal;
+    color: black;
+    margin-right: 82px;
+  }
+  .relativeWrapperTwo {
+    width: 59.35%;
+    align-self: stretch;
+    position: relative;
+  }
+  .smashicons9 {
+    width: 19.95%;
+    height: 127.78%;
+    position: absolute;
+    left: -73px;
+    top: -10px;
+  }
+  .flexWrapperThree {
+    background-color: gainsboro;
+    margin-left: 70px;
+    border-radius: 150px;
+    padding: 37px 235px 38px 207px;
+    display: flex;
+    align-items: center;
+  }
+  .najti {
+    font-family: "Inter";
+    font-size: 32px;
+    font-weight: 900;
+    line-height: normal;
+    color: black;
+    flex: 1;
+    align-self: stretch;
+  }
+  .flexWrapperTwentyThree {
+    background-color: white;
+    margin-right: 14px;
+    padding: 60px 22.6px 0 22px;
+    position: relative;
+    border: 10px solid black;
+  }
+  .akcii {
+    width: 83.75%;
+    height: 32.65%;
+    color: black;
+    position: absolute;
+    left: 13px;
+    top: 21px;
+  }
+  .smashicons2 {
+    width: 100%;
+    height: 111.49%;
+    position: relative;
+  }
+  .flexWrapperTwentyFour {
+    background-color: white;
+    margin-right: 14px;
+    padding: 23px 1px 8px 3px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    border: 10px solid black;
+  }
+  .otzyvy {
+    height: 37.93%;
+    font-family: "Inter";
+    font-size: 36px;
+    font-weight: 900;
+    line-height: normal;
+    color: black;
+    align-self: stretch;
+    margin-bottom: 11px;
+  }
+  .smashicons3 {
+    width: 51.63%;
+    height: 52.59%;
+    margin-left: 30px;
+  }
+  .flexWrapperTwentyFive {
+    background-color: white;
+    padding: 15px 6px 74px;
+    position: relative;
+    border: 10px solid black;
+  }
+  .vhodRegistracija {
+    max-width: 160px;
+    width: 100%;
+    height: 100%;
+    font-family: "Inter";
+    font-size: 24px;
+    font-weight: 900;
+    line-height: normal;
+    color: black;
+    position: relative;
+  }
+  .smashicons4 {
+    width: 42.44%;
+    height: 49.66%;
+    position: absolute;
+    left: 49px;
+    bottom: 12px;
+  }
